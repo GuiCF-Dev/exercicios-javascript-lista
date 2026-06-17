@@ -1,0 +1,1 @@
+const valor=Number(prompt('Valor'));const codigo=prompt('Código');alert(codigo==='DESC10'?valor*0.9:valor);

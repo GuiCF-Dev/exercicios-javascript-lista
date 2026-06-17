@@ -1,0 +1,1 @@
+const nome=prompt('Nome');alert(nome.length>5?'Nome longo':'Nome curto');

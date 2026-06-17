@@ -1,0 +1,1 @@
+const idade=Number(prompt('Idade'));alert('Brasil: '+(idade>=18?'Maior':'Menor')+'\nEUA: '+(idade>=21?'Maior':'Menor'));

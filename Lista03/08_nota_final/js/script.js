@@ -1,0 +1,1 @@
+const nota=Number(prompt('Nota'));alert(nota>=60?'Aprovado':'Reprovado');

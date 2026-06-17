@@ -1,0 +1,1 @@
+const palavra=prompt('Palavra');alert(palavra==='JavaScript'?'Você escolheu a linguagem correta!':'Escolha outra linguagem');

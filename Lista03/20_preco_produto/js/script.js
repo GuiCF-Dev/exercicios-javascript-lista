@@ -1,0 +1,1 @@
+const preco=Number(prompt('Preço'));alert(preco<20?'Barato':preco<=100?'Médio':'Caro');

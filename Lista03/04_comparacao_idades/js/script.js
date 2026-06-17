@@ -1,0 +1,1 @@
+const a=Number(prompt('Idade 1'));const b=Number(prompt('Idade 2'));alert(a>b?'Primeira pessoa é mais velha':a<b?'Segunda pessoa é mais velha':'Mesma idade');

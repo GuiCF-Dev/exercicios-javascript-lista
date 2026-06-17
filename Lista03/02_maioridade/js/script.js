@@ -1,0 +1,1 @@
+const idade=Number(prompt('Idade'));alert(idade>=18?'Maior de idade':'Menor de idade');

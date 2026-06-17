@@ -1,0 +1,1 @@
+const idade=Number(prompt('Idade'));alert(idade>=16?'Pode entrar':'Não pode entrar');

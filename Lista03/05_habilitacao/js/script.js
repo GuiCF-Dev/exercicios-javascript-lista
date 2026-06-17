@@ -1,0 +1,1 @@
+const idade=Number(prompt('Idade'));alert(idade>=18?'Pode tirar habilitação':'Não pode tirar habilitação');

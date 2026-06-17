@@ -1,0 +1,1 @@
+const h=Number(prompt('Hora'));alert(h>=5&&h<=11?'Manhã':h>=12&&h<=17?'Tarde':h>=18?'Noite':'Madrugada');

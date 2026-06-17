@@ -1,0 +1,1 @@
+const n=Number(prompt('Número'));alert(n>0?'Positivo':n<0?'Negativo':'Zero');

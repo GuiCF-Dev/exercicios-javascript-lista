@@ -1,0 +1,1 @@
+const peso=Number(prompt('Peso'));const altura=Number(prompt('Altura'));const imc=peso/(altura*altura);alert(imc<18.5?'Abaixo do peso':imc<25?'Peso normal':imc<30?'Sobrepeso':'Obesidade');

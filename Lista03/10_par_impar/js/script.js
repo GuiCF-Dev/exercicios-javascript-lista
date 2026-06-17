@@ -1,0 +1,1 @@
+const n=Number(prompt('Número'));alert(n%2===0?'Par':'Ímpar');

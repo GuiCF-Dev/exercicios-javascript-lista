@@ -1,0 +1,1 @@
+const t=Number(prompt('Temperatura'));alert(t<15?'Frio':t<=25?'Agradável':'Quente');

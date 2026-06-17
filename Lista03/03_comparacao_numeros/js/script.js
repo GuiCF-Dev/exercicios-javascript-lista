@@ -1,0 +1,1 @@
+const a=Number(prompt('Número 1'));const b=Number(prompt('Número 2'));alert(a===b?'São iguais':'Não são iguais');

@@ -1,0 +1,1 @@
+const t=Number(prompt('Temperatura'));const u=prompt('C ou F');alert(u==='C'?((t*9/5)+32):((t-32)*5/9));

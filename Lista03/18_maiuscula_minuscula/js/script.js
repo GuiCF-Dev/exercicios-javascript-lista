@@ -1,0 +1,1 @@
+const letra=prompt('Letra');alert(letra===letra.toUpperCase()?'Maiúscula':'Minúscula');

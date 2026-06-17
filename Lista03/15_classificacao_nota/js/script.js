@@ -1,0 +1,1 @@
+const nota=Number(prompt('Nota'));alert(nota>=9?'Excelente':nota>=7?'Bom':nota>=5?'Regular':'Insuficiente');

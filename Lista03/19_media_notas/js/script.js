@@ -1,0 +1,1 @@
+const a=Number(prompt('Nota 1'));const b=Number(prompt('Nota 2'));const c=Number(prompt('Nota 3'));const m=(a+b+c)/3;alert(m>=6?'Aprovado':'Reprovado');
