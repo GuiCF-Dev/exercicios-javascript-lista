@@ -1,94 +1,74 @@
-# 📚 Exercícios de JavaScript
+# 🚀 Práticas de JavaScript
 
 ## 📖 Sobre o Repositório
 
-Este repositório reúne uma coleção de listas de exercícios desenvolvidas com o objetivo de praticar e consolidar os principais conceitos da linguagem **JavaScript**.
+Este repositório contém uma série de exercícios desenvolvidos para praticar os fundamentos da linguagem **JavaScript**.
 
-As atividades foram organizadas em listas progressivas, permitindo que o aprendizado aconteça de forma gradual através da resolução de problemas e desafios práticos.
+As atividades foram organizadas em listas de exercícios com diferentes níveis de dificuldade, permitindo o desenvolvimento gradual das habilidades de programação através da prática constante.
 
 ---
 
 ## 🎯 Objetivos
 
+* Aprender os conceitos fundamentais do JavaScript.
 * Desenvolver o raciocínio lógico.
-* Praticar a sintaxe da linguagem JavaScript.
-* Aprender a manipular variáveis e tipos de dados.
-* Trabalhar com estruturas condicionais e de repetição.
-* Criar funções reutilizáveis.
-* Desenvolver habilidades de resolução de problemas.
-* Consolidar conceitos fundamentais da programação.
+* Praticar resolução de problemas.
+* Trabalhar com variáveis e operadores.
+* Utilizar estruturas condicionais e de repetição.
+* Criar e reutilizar funções.
+* Desenvolver soluções utilizando boas práticas de programação.
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Organização do Repositório
 
 ```text
-/Repositório
-│
+/
 ├── Lista01/
-│   ├── exercicio01
-│   ├── exercicio02
-│   └── ...
-│
 ├── Lista02/
-│   ├── exercicio01
-│   ├── exercicio02
-│   └── ...
-│
 ├── Lista03/
-│   ├── exercicio01
-│   ├── exercicio02
-│   └── ...
-│
 ├── Lista04/
-│   ├── exercicio01
-│   ├── exercicio02
-│   └── ...
-│
 └── Lista05/
-    ├── exercicio01
-    ├── exercicio02
-    └── ...
 ```
 
----
-
-## 🖼️ Diagrama da Estrutura
-
-Adicione uma imagem ilustrando a organização do repositório:
-
-```md
-![Estrutura do Repositório](img/image.png)
-```
+Cada lista contém exercícios independentes voltados para a fixação dos conteúdos estudados.
 
 ---
 
-## 📄 Listas de Exercícios
+## 🧠 Conteúdos Praticados
 
-* **Lista de Exercícios 01** - [Link PDF](#)
-* **Lista de Exercícios 02** - [Link PDF](#)
-* **Lista de Exercícios 03** - [Link PDF](#)
-* **Lista de Exercícios 04** - [Link PDF](#)
-* **Lista de Exercícios 05** - [Link PDF](#)
+* Variáveis e tipos de dados
+* Operadores matemáticos e lógicos
+* Estruturas condicionais
+* Estruturas de repetição
+* Funções
+* Arrays
+* Objetos
+* Manipulação de dados
+* Lógica de programação
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
-* JavaScript (ES6+)
+* JavaScript
 * HTML5
 * CSS3
 
 ---
 
-## 📚 Metodologia
+## 📈 Evolução do Aprendizado
 
-Os exercícios seguem a abordagem **Baby Steps**, focando na prática contínua e na evolução gradual dos conhecimentos em programação.
+Os exercícios foram organizados de forma progressiva para facilitar a assimilação dos conceitos e proporcionar uma evolução contínua no aprendizado da linguagem.
 
-Cada lista foi elaborada para reforçar conceitos específicos e preparar o estudante para desafios mais avançados.
+---
+
+## 📚 Finalidade
+
+Este repositório possui caráter educacional e foi criado para auxiliar nos estudos e na prática de programação utilizando JavaScript.
 
 ---
 
 ## 📄 Licença
 
-Este repositório possui finalidade exclusivamente educacional e foi desenvolvido para fins de estudo e prática.
+Projeto destinado exclusivamente para fins de estudo e aprendizado.
